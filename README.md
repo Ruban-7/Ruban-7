@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruban-7" alt="ruban-7" /></a> </p>
 
-- 🔭 I’m currently working on **AI projects, DevOps projects**
+- 🔭 I’m currently working on **AI projects, Web Development Projects**
 
-- 🌱 I’m currently learning **Machine Learning, Cloud**
+- 🌱 I’m currently learning **Cloud**
 
-- 👯 I’m looking to collaborate on **AI projects, DevOps projects**
+- 👯 I’m looking to collaborate on **AI projects, Web Development Projects**
 
-- 🤝 I’m looking for help with **AI projects, DevOps projects**
+- 🤝 I’m looking for help with **AI projects, Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/u/0/folders/18lcwpFvZcsh1V2nocO9YuEyXRwZkDDAw](https://drive.google.com/drive/u/0/folders/18lcwpFvZcsh1V2nocO9YuEyXRwZkDDAw)
 
